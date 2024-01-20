@@ -12,6 +12,9 @@ A simple implementation of the Transformer architecture from scratch using [Tens
 ## Introduction
 The Transformer model, introduced by Vaswani et al. in the paper "Attention is All You Need," has become a cornerstone in natural language processing and beyond. This repository aims to provide a clear and concise implementation of the Transformer architecture from scratch. It serves as an educational resource for deep learning enthusiasts who want to grasp the fundamentals of transformers.
 
+![transformer_arch](https://github.com/sobit-nep/Transformer-Neural-Network-from-scratch/assets/65544518/03fa9dee-b74f-40ae-90c2-d75b32810a88)
+
+
 ## Implementation Details
 - **Language:** Python
 - **Framework:** [TensorFlow/PyTorch]
