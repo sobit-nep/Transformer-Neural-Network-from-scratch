@@ -1,6 +1,5 @@
 # Transformer-Neural-Networks-from-scratch
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/sobit-nep/Transformer-Neural-Network-from-scratch.svg?style=flat&logo=github&colorB=blue&label=stars)](https://github.com/sobit-nep/Transformer-Neural-Network-from-scratch/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/sobit-nep/Transformer-Neural-Network-from-scratch.svg?style=flat&logo=github&colorB=blue&label=forks)](https://github.com/sobit-nep/Transformer-Neural-Network-from-scratch/network/members)
 
